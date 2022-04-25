@@ -1,2 +1,2 @@
-# Ecology and Cultures Innovation Lab
+# Ecology and Cultures  Lab
 
