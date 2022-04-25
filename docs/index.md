@@ -3,7 +3,7 @@ Welcome to the website of the Ecology and Cultures Innovation Lab, Tongji Univer
 
 ## Join us for Earth Day!
 
-![earth day 2022](website/docs/image/earthday.jpg)
+![earth day 2022](/website/docs/image/earthday.jpg)
 
 ### EARTH DAY 2022 - 个自然赋魅和关联重建的播放列表
 a playlist for enchantment & reconnection
