@@ -1,5 +1,3 @@
-# Ecology and Cultures Innovation Lab
-
 Welcome to the website of the Ecology and Cultures Innovation Lab, Tongji University, College of Design and Innovation, Shanghai.
 
 ## Join us for Earth Day!
