@@ -1,6 +1,3 @@
-# Ecology and Cultures Innovation Lab
-### College of Design and Innovation, Tongji University
-
 Welcome to the website of the Ecology and Cultures Innovation Lab.
 
 ## Join us for Earth Day!
