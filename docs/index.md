@@ -1,15 +1,32 @@
-## Welcome to GitHub Pages
+## Ecology and Cultures Innovation Lab
+### College of Design and Innovation, Tongji University
 
-You can use the [editor on GitHub](https://github.com/ecoculi/website/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Welcoke to the website of the Ecology and Cultures Innovation Lab.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Join us for Earth Day!
 
-### Markdown
+![earth day 2022](../docs/image/earthday.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## EARTH DAY 2022 - 个自然赋魅和关联重建的播放列表
+a playlist for enchantment & reconnection
+curated by
+the Ecology and Cultures Innovation Lab, Tongji University, Shanghai
+策展方生态文化创新实验室同济大学设计创意学院•上海
+April 22nd. O-24 at GMT+8
+4月22日全天24小时（北京时间）
+streaming:
+[bilibili](http://live.bilibili.com/22684870)
+[tencent](https://meeting.tencent.com/V/yT5IVPCSk7Iv)
 
-```markdown
-Syntax highlighted code block
+### New content coming soon.
+
+Let's keep in touch: ecologydesignlab@foxmail.com
+
+
+### Learn something new:
+This webpage is written using the markdown language. Curious about it?
+
+```Here's how it works:
 
 # Header 1
 ## Header 2
@@ -26,12 +43,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ecoculi/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[editor on GitHub](https://github.com/ecoculi/website/edit/main/docs/index.md)
